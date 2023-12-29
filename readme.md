@@ -1,4 +1,8 @@
-# Py Typing Test CLI
+# Typing Test with Python
+
+Demonstration of using curses to build a cli version of a words per minute typing test with Python.
+
+---
 
 ## Setup Virtual Environment
 
